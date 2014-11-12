@@ -4,13 +4,14 @@
 
 Python Learning
 --
-
-Instructions:
---
+- Python basics from teamtreehouse.com
 
 Lessons Learned:
 --
-
+* White Space indentation/syntax
+* Integers and Floats
+* Blocks
+* Exceptions
 
 Problems With Code:
 --
