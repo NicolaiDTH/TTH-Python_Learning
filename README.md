@@ -4,6 +4,8 @@
 
 Python Learning
 --
+Python Basics Course on teamtreehouse.com
+
 
 Lessons:
 --
