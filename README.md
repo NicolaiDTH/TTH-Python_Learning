@@ -5,9 +5,6 @@
 Python Learning
 --
 
-Instructions:
---
-
 Lessons Learned:
 --
 - Python basics from teamtreehouse.com
