@@ -4,6 +4,7 @@
 
 Python Learning
 --
+<<<<<<< HEAD
 
 Instructions:
 --
@@ -11,6 +12,16 @@ Instructions:
 Lessons Learned:
 --
 
+=======
+- Python basics from teamtreehouse.com
+
+Lessons Learned:
+--
+* White Space indentation/syntax
+* Integers and Floats
+* Blocks
+* Exceptions
+>>>>>>> 626270c7be4c2208f946b7981ae475ae4a6e3f16
 
 Problems With Code:
 --
