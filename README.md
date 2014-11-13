@@ -5,11 +5,7 @@
 Python Learning
 --
 
-Lessons Learned:
---
-- Python basics from teamtreehouse.com
-
-Lessons Learned:
+Lessons:
 --
 * White Space indentation/syntax
 * Integers and Floats
