@@ -13,7 +13,3 @@ Lessons:
 * Integers and Floats
 * Blocks
 * Exceptions
-
-Problems With Code:
---
-
